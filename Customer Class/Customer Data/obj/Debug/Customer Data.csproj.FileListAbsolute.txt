@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\bin\Debug\Customer Data.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\bin\Debug\Customer Data.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\bin\Debug\Customer Data.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\obj\Debug\Customer Data.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\obj\Debug\Customer_Data.Form1.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\obj\Debug\Customer_Data.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\obj\Debug\Customer Data.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\obj\Debug\Customer Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\obj\Debug\Customer Data.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Customer Class\Customer Data\obj\Debug\Customer Data.pdb
